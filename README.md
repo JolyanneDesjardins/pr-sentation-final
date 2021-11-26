@@ -1,3 +1,4 @@
 # La photographie
 ## Un peu d'histoire
-## Types d'appareil
+## L'évolution des appareils photo
+## Comment c'est utilisé en multimédia
