@@ -2,6 +2,8 @@
 ## Qu'est ce que c´est?
 La photographie c'est savoir écrire avec la lumière.
 ## Un peu d'histoire
-Le début de la photographie c´est avec la chambre noire.Une boite où il faut perser un petit trou pour voir apparaitre une image inverserdans le fond de la boite.
+Le début de la photographie c´est avec la chambre noire.Une boite où il faut perser un petit trou pour voir apparaitre une image inverserdans le fond de la boite. 
 ## L'évolution des appareils photo
+
 ## Comment c'est utilisé en multimédia
+La photographie est utilisé dans beaucoup d´aspet du multimédia: au cinéma, en publicité, montage photo, pour le web aussi.
