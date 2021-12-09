@@ -7,7 +7,9 @@ Le début de la photographie c´est avec la chambre noire.Une boite où il faut 
 Joseph Niépce a inventé l'apparreil photo "Obscura" qu´on appel aussi la chambre noire en 1830.
 En 1880, George eastman à crée sa société "Kodak" Un camé dans une boite fermée qui permet de faire une serie de 100 photographie avec un film en rouleau souple. on  ne peut tout simplement pas faire de mise au point. Premier appareil pour monsieur madame tout le monde.il revoillais les appareil a l´usine pour qu´il puisse developper les photos.
 
-  Environ, en 400 avant Jésus Christ,Aristote a découvert que si l'on se place dans une pièce sombre avec juste le petit trou sur la porte et s'il fait très beau dehors, on peut voir sur le mur opposé à la porte l'image inversée du paysage extérieur. 
+###Environ, en 400 avant Jésus Christ
+
+Aristote a découvert que si l'on se place dans une pièce sombre avec juste le petit trou sur la porte et s'il fait très beau dehors, on peut voir sur le mur opposé à la porte l'image inversée du paysage extérieur. 
 Quelques année après cette découverte,Hassan Ibn Hassan,en 1100 remarque que plus le trou qui laisse passer la lumière est petit, plus l’image est nette. 
 
 
@@ -19,7 +21,7 @@ En 1515 Léonard de Vinci reprend les travaux de Hassan Ibn Hassan en créant ce
   
    .En 1650, les peintres et les dessinateurs utilisent la camera obscura « moderne » et mettent la pression aux scientifiques pour obtenir des images plus précises. Ainsi, ils ont inventé les objectifs à plusieurs lentilles pour limiter les imperfections de l’image obtenue et modifier le point de vue grâce à des focales différentes.
    
-    En 1673, Horke construit la « camera clara » avec un miroir et du verre dépoli, privé de son éclat. C’est pour ainsi dire le premier appareil (pas encore photographique) reflex. C’est un engin qui renvoie l’image sur un verre dépoli à l’aide d’un miroir incliné.
+En 1673, Horke construit la « camera clara » avec un miroir et du verre dépoli, privé de son éclat. C’est pour ainsi dire le premier appareil (pas encore photographique) reflex. C’est un engin qui renvoie l’image sur un verre dépoli à l’aide d’un miroir incliné.
     
  . En 1727, la chimie intervient dans la création des images. Johann Heinrich Schulze, un savant allemand, découvre que l’iodure d’argent noircit à la lumière.
  
@@ -36,8 +38,30 @@ En 1515 Léonard de Vinci reprend les travaux de Hassan Ibn Hassan en créant ce
 . . En 1828, Joseph Niépce découvre une nouvelle méthode qui produit des images d’une qualité supérieure mais il faut encore plusieur jours pour obtenir une image.
 
 . En 1829, Joseph Niépce s’associe avec Louis Daguerre, peintre français, dans l’espoir de raccourcir le temps de pose de son système. Il lui demande de lui construire une camera obscura donnant des images plus lumineuses. Ils ont mis au point une nouvelle méthode à base de résines d’arbres et le résidu de la distillation de la lavande. Le temps de pose est d’environ huit heures au soleil.
+
  . En 1833, Joseph Niépce meurt et c’est son fils, Isidore Niépce qui prend sa suite dans la société qu’il a créé avec Louis Daguerre.
+ 
  . En 1835, Louis Daguerre obtient des images avec un temps de pose beaucoup plus court. (chercher le temps)
+ 
+ 
+ . 1839 : Grâce aux daguerréotypes (invention de Louis Daguerre) l’appareil photographique devient populaire. Le temps de pose a énormément diminué, on est plus qu’à 20 minutes en plein soleil. Chaque daguerréotypes est unique et ne peut être reproduit. photo daguerréotypes
+ 
+. En 1841, William Henry Fox Talbot, scientifique britannique créa le « calotype » qui est un vrai négatif (qui montre l'image avec les ton inverses ou les couleurs complémentaires de ceux du sujet photographié) qui permet de créer autant de positif que l’on veut (qui montre l’image avec les vraies couleurs du sujet photographié) à partir d’un seul négatif.
+
+ En 1869, est née la première photographie en couleur par superposition de 3 négatifs (rouge vert et bleu ) par Louis Ducos de Hauron. 
+ 
+En 1880, George eastman à crée sa société "Kodak" Un camé dans une boite fermée qui permet de faire une serie de 100 photographie avec un film en rouleau souple. on  ne peut tout simplement pas faire de mise au point. Premier appareil pour monsieur madame tout le monde.il revoillais les appareil a l´usine pour qu´il puisse developper les photos.
+
+En 1906 sort la première vraie photographie en couleurs due à Auguste et Louis Lumière.
+
+ En 1935 il est possible de faire de la diapositive.
+ 
+ En 1942 arrive le film négatif en couleurs.
+ 
+ En 1948 débute la commercialisation du premier appareil à développement instantané.
+ 
+ En 1975 naît le premier appareil photographique numérique.
+
  
 
    
