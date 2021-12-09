@@ -35,7 +35,7 @@ Ensuite, il essaye une nouvelle fois en utilisant non plus des substances qui no
 Joseph Niépce grâce à une nouvelle résine d’origine minérale, le bitume de Judée, réussit à reproduire des dessins placés en contact avec des supports enduits de bitume et invente ainsi la photogravure.
 ### En 1824 
  Joseph Niépce place des pierres de calcaires recouvertes de bitume, au fond de la chambre obscure et obtient, pour la première fois, l’image fixée d’un paysage. Il faut poser plusieurs jours en plein soleil mais il s’agit d’une photographie ! La camera obscura se voit propulsée au rang d’appareil photographique.
- ![première photographie](image/premiere_photo.jpg)
+ ![première photographie](image/premiere_photo.png)
 ### En 1828
 Joseph Niépce découvre une nouvelle méthode qui produit des images d’une qualité supérieure mais il faut encore plusieur jours pour obtenir une image.
 ### En 1829 
