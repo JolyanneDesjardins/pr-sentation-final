@@ -17,7 +17,7 @@ Léonard de Vinci reprend les travaux de Hassan Ibn Hassan en créant ce qui est
   Giovanni Battista Della Porta est un physicien, un opticien, un philosophe et un alchimiste italien, Il ajoute un diaphragme à la « nouvelle camera obscura ».se qui permet de controlé la lumière qui rentre dans la camera.
 ### En 1650
 Les peintres et les dessinateurs utilisent la camera obscura « moderne » et mettent la pression aux scientifiques pour obtenir des images plus précises. Ainsi, ils ont inventé les objectifs à plusieurs lentilles pour limiter les imperfections de l’image obtenue et modifier le point de vue grâce à des focales différentes.
-![Image chambre noire peintre](image/Chambre_noire_peintre)
+![Image chambre noire peintre](image/Chambre_noire_peintre.jpg)
 ### En 1673
 Horke construit la « camera clara » avec un miroir et du verre dépoli, privé de son éclat. C’est pour ainsi dire le premier appareil (pas encore photographique) reflex. C’est un engin qui renvoie l’image sur un verre dépoli à l’aide d’un miroir incliné.
 ### En 1727
