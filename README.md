@@ -69,5 +69,9 @@ Naissance du premier appareil photographique numérique comme on le connait aujo
 
 ## Comment c'est utilisé en multimédia
 La photographie est utilisé dans beaucoup d´aspet du multimédia: au cinéma, en publicité, montage photo, pour le web aussi.
-##Source 
+## Source 
 http://www.ac-grenoble.fr/college/verney.sallanches/drupal/?q=system/files/histoire%20appareil%20photo_0.pdf
+https://www.albertdemun.fr/art2mun/histoire-des-arts-4eme-la-physique-et-lart-la-camera-obscura/(image_chambre_noire_peintre)
+https://artsandculture.google.com/exhibit/before-the-invention-of-photography/FQKC25AvuGDFLw(image_chambre_noire)
+https://fr.wikipedia.org/wiki/Photographie_couleur(premiere_photographie_couleur)
+https://fr.wikipedia.org/wiki/Histoire_de_la_photographie(premiere_photo)
