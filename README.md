@@ -4,14 +4,10 @@ La photographie c'est savoir écrire avec la lumière.
 ## Un peu d'histoire
 Le début de la photographie c´est avec la chambre noire.Une boite où il faut perser un petit trou pour voir apparaitre une image inverserdans le fond de la boite. 
 ## L'évolution des appareils photo
-Joseph Niépce a inventé l'apparreil photo "Obscura" qu´on appel aussi la chambre noire en 1830.
-En 1880, George eastman à crée sa société "Kodak" Un camé dans une boite fermée qui permet de faire une serie de 100 photographie avec un film en rouleau souple. on  ne peut tout simplement pas faire de mise au point. Premier appareil pour monsieur madame tout le monde.il revoillais les appareil a l´usine pour qu´il puisse developper les photos.
-
 ### Environ, en 400 avant Jésus Christ
 
 Aristote a découvert que si l'on se place dans une pièce sombre avec juste le petit trou sur la porte et s'il fait très beau dehors, on peut voir sur le mur opposé à la porte l'image inversée du paysage extérieur. 
 Quelques année après cette découverte,Hassan Ibn Hassan,en 1100 remarque que plus le trou qui laisse passer la lumière est petit, plus l’image est nette. 
-
 
 ### En 1515
 Léonard de Vinci reprend les travaux de Hassan Ibn Hassan en créant ce qui est le début de l'appareil photographique : « camera obscura ». La chambre noire. instrument optique qui permet d'obtenir une vue en deux dimensions, proche de la vision humaine. photo(chambre noire)
@@ -21,6 +17,7 @@ Léonard de Vinci reprend les travaux de Hassan Ibn Hassan en créant ce qui est
   Giovanni Battista Della Porta est un physicien, un opticien, un philosophe et un alchimiste italien, Il ajoute un diaphragme à la « nouvelle camera obscura ».se qui permet de controlé la lumière qui rentre dans la camera.
 ### En 1650
 Les peintres et les dessinateurs utilisent la camera obscura « moderne » et mettent la pression aux scientifiques pour obtenir des images plus précises. Ainsi, ils ont inventé les objectifs à plusieurs lentilles pour limiter les imperfections de l’image obtenue et modifier le point de vue grâce à des focales différentes.
+![Image chambre noire peintre](image/Chambre_noire_peintre)
 ### En 1673
 Horke construit la « camera clara » avec un miroir et du verre dépoli, privé de son éclat. C’est pour ainsi dire le premier appareil (pas encore photographique) reflex. C’est un engin qui renvoie l’image sur un verre dépoli à l’aide d’un miroir incliné.
 ### En 1727
