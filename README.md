@@ -10,13 +10,16 @@ Aristote a découvert que si l'on se place dans une pièce sombre avec juste le 
 Quelques année après cette découverte,Hassan Ibn Hassan,en 1100 remarque que plus le trou qui laisse passer la lumière est petit, plus l’image est nette. 
 
 ### En 1515
-Léonard de Vinci reprend les travaux de Hassan Ibn Hassan en créant ce qui est le début de l'appareil photographique : « camera obscura ». La chambre noire. instrument optique qui permet d'obtenir une vue en deux dimensions, proche de la vision humaine. photo(chambre noire)
+Léonard de Vinci reprend les travaux de Hassan Ibn Hassan en créant ce qui est le début de l'appareil photographique : « camera obscura ». La chambre noire. instrument optique qui permet d'obtenir une vue en deux dimensions, proche de la vision humaine.
+
+![photo d'une chambre noire](image/image_chambre_noire.jpg)
 ### En 1540
  Girolamo Cardano est un mathématicien, un inventeur, un astrologue et un médecin italien. Il remplace le sténopé (trou de faible dimension) par une lentille de verre. Le trou peut-être plus gros sans perdre la netteté de l'image.
 ### En 1553
   Giovanni Battista Della Porta est un physicien, un opticien, un philosophe et un alchimiste italien, Il ajoute un diaphragme à la « nouvelle camera obscura ».se qui permet de controlé la lumière qui rentre dans la camera.
 ### En 1650
 Les peintres et les dessinateurs utilisent la camera obscura « moderne » et mettent la pression aux scientifiques pour obtenir des images plus précises. Ainsi, ils ont inventé les objectifs à plusieurs lentilles pour limiter les imperfections de l’image obtenue et modifier le point de vue grâce à des focales différentes.
+
 ![Image chambre noire peintre](image/Chambre_noire_peintre.jpg)
 ### En 1673
 Horke construit la « camera clara » avec un miroir et du verre dépoli, privé de son éclat. C’est pour ainsi dire le premier appareil (pas encore photographique) reflex. C’est un engin qui renvoie l’image sur un verre dépoli à l’aide d’un miroir incliné.
