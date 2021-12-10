@@ -2,7 +2,7 @@
 ## Qu'est ce que c´est?
 La photographie c'est savoir écrire avec la lumière.
 ## Un peu d'histoire
-Le début de la photographie c´est avec la chambre noire.Une boite où il faut perser un petit trou pour voir apparaitre une image inverserdans le fond de la boite. 
+Le début de la photographie c´est avec la chambre noire.Une boite où il faut perser un petit trou pour voir apparaitre une image inverser dans le fond de la boite. 
 ## L'évolution des appareils photo
 ### Environ, en 400 avant Jésus Christ
 
@@ -46,14 +46,14 @@ Joseph Niépce meurt et c’est son fils, Isidore Niépce qui prend sa suite dan
 ### En 1835
 Louis Daguerre obtient des images avec un temps de pose beaucoup plus court.
 ### 1839 
-Grâce aux daguerréotypes (invention de Louis Daguerre) l’appareil photographique devient populaire. Le temps de pose a énormément diminué, on est plus qu’à 20 minutes en plein soleil. Chaque daguerréotypes est unique et ne peut être reproduit. =
+Grâce aux daguerréotypes (invention de Louis Daguerre) l’appareil photographique devient populaire. Le temps de pose a énormément diminué, on est plus qu’à 20 minutes en plein soleil. Chaque daguerréotypes est unique et ne peut être reproduit. 
 ### En 1841
 William Henry Fox Talbot, scientifique britannique créa le « calotype » qui est un vrai négatif (qui montre l'image avec les ton inverses ou les couleurs complémentaires de ceux du sujet photographié) qui permet de créer autant de positif que l’on veut (qui montre l’image avec les vraies couleurs du sujet photographié) à partir d’un seul négatif.
 ### En 1869
 La première photographie en couleur par superposition de 3 négatifs (rouge vert et bleu ) par Louis Ducos de Hauron. 
 ![Première photo en couleur](image/premiere_photo_couleur.jpg)
 ### En 1880
-George eastman à crée sa société "Kodak" Un camé dans une boite fermée qui permet de faire une serie de 100 photographie avec un film en rouleau souple. on  ne peut tout simplement pas faire de mise au point. Premier appareil pour monsieur madame tout le monde,il revoillait les appareil a l´usine pour qu´il puisse developper les photos.
+George Eastman à crée sa société "Kodak" Une caméra dans une boite fermée qui permet de faire une serie de 100 photographie avec un film en rouleau souple. On ne peut tout simplement pas faire de mise au point. Premier appareil pour monsieur madame tout le monde et il revoillait les appareils à l´usine pour qu´ils puissent développer les photos.
 ![Photo du premier Kodak](image/premier_kodak.jpg)
 ### En 1906
 La première vraie photographie en couleurs due à Auguste et Louis Lumière.
@@ -75,8 +75,8 @@ Naissance du premier appareil photographique numérique comme on le connait aujo
 La photographie est utilisé dans beaucoup d´aspet du multimédia: au cinéma, en publicité, montage photo, pour le web aussi.
 ## Source 
 http://www.ac-grenoble.fr/college/verney.sallanches/drupal/?q=system/files/histoire%20appareil%20photo_0.pdf
-https://www.albertdemun.fr/art2mun/histoire-des-arts-4eme-la-physique-et-lart-la-camera-obscura/(image_chambre_noire_peintre)
-https://artsandculture.google.com/exhibit/before-the-invention-of-photography/FQKC25AvuGDFLw(image_chambre_noire)
-https://fr.wikipedia.org/wiki/Photographie_couleur(premiere_photographie_couleur)
-https://fr.wikipedia.org/wiki/Histoire_de_la_photographie(premiere_photo)
+https://www.albertdemun.fr/art2mun/histoire-des-arts-4eme-la-physique-et-lart-la-camera-obscura/ (image_chambre_noire_peintre)
+https://artsandculture.google.com/exhibit/before-the-invention-of-photography/FQKC25AvuGDFLw (image_chambre_noire)
+https://fr.wikipedia.org/wiki/Photographie_couleur (premiere_photographie_couleur)
+https://fr.wikipedia.org/wiki/Histoire_de_la_photographie (premiere_photo)
 https://www.ssplprints.com/image/95851/the-kodak-camera-1888 (premier_kodak)
