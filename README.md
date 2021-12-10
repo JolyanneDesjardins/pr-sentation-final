@@ -30,7 +30,7 @@ Thomas Wedgwood a travaillé avec Sir Humphry Davy, physicien et chimiste britan
   
 ### De 1816 à 1818
 Joseph Nicéphore Niépce, ingénieur français, dépose au fond de sa camera obscura une feuille de papier enduite de sels d’argent. Il obtient une vue du paysage extérieur pris depuis sa fenêtre, mais il était impossible d’arrêter le noircissement de la feuille. 
-Ensuite, il essaye une nouvelle fois en utilisant non plus des substances qui noircissent à la lumière mais des substances que se décolorent à la lumière. Cette fois aussi, il n’est pas parvenu à stopper la réaction pour fixer l’image. Il découvre dans un traité de chimie que la résine de Gaïac jaune, extraite d’un résineux, devient verte sous l’action de la lumière et surtout qu’elle perd sa solubilité,, dans l’alcool. Il comprend grâce à cette propriété que l’on peut faire la différence entre la résine transformée et la résine intacte et donc fixer l’image. Malheureusement une fois sa feuille placée dans la camera obscura, il ne s’est rien passé. Il ne savait pas que ce n’était pas la lumière qui entraînait le changement mais une fraction de la lumière du jour qui était incapable de traverser les lentilles de sa camera obscura, le rayonnement UV.
+Ensuite, il essaye une nouvelle fois en utilisant non plus des substances qui noircissent à la lumière mais des substances que se décolorent à la lumière. Cette fois aussi, il n’est pas parvenu à stopper la réaction pour fixer l’image. Il découvre dans un traité de chimie que la résine de Gaïac jaune, extraite d’un résineux, devient verte sous l’action de la lumière et surtout qu’elle perd sa solubilité, dans l’alcool. Il comprend grâce à cette propriété que l’on peut faire la différence entre la résine transformée et la résine intacte et donc fixer l’image. Malheureusement une fois sa feuille placée dans la camera obscura, il ne s’est rien passé. Il ne savait pas que ce n’était pas la lumière qui entraînait le changement mais une fraction de la lumière du jour qui était incapable de traverser les lentilles de sa camera obscura, le rayonnement UV.
 ### En 1822
 Joseph Niépce grâce à une nouvelle résine d’origine minérale, le bitume de Judée, réussit à reproduire des dessins placés en contact avec des supports enduits de bitume et invente ainsi la photogravure.
 ### En 1824 
@@ -64,11 +64,11 @@ Le film négatif en couleurs.
 Début de la commercialisation du premier appareil à développement instantané , le Polaroid
 ### En 1975 
 Naissance du premier appareil photographique numérique comme on le connait aujourd'hui.
-
- 
-
-   
-
+## Logiciel utilisé en photographie
+1-Lightroom
+2-Photoshop
+3-gimp
+4-photopea (en ligne)
 
 ## Comment c'est utilisé en multimédia
 La photographie est utilisé dans beaucoup d´aspet du multimédia: au cinéma, en publicité, montage photo, pour le web aussi.
