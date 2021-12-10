@@ -46,14 +46,14 @@ Joseph Niépce meurt et c’est son fils, Isidore Niépce qui prend sa suite dan
 ### En 1835
 Louis Daguerre obtient des images avec un temps de pose beaucoup plus court.
 ### 1839 
-Grâce aux daguerréotypes (invention de Louis Daguerre) l’appareil photographique devient populaire. Le temps de pose a énormément diminué, on est plus qu’à 20 minutes en plein soleil. Chaque daguerréotypes est unique et ne peut être reproduit. photo daguerréotypes
+Grâce aux daguerréotypes (invention de Louis Daguerre) l’appareil photographique devient populaire. Le temps de pose a énormément diminué, on est plus qu’à 20 minutes en plein soleil. Chaque daguerréotypes est unique et ne peut être reproduit. =
 ### En 1841
 William Henry Fox Talbot, scientifique britannique créa le « calotype » qui est un vrai négatif (qui montre l'image avec les ton inverses ou les couleurs complémentaires de ceux du sujet photographié) qui permet de créer autant de positif que l’on veut (qui montre l’image avec les vraies couleurs du sujet photographié) à partir d’un seul négatif.
 ### En 1869
 La première photographie en couleur par superposition de 3 négatifs (rouge vert et bleu ) par Louis Ducos de Hauron. 
 ![Première photo en couleur](image/premiere_photo_couleur.jpg)
 ### En 1880
-George eastman à crée sa société "Kodak" Un camé dans une boite fermée qui permet de faire une serie de 100 photographie avec un film en rouleau souple. on  ne peut tout simplement pas faire de mise au point. Premier appareil pour monsieur madame tout le monde.il revoillais les appareil a l´usine pour qu´il puisse developper les photos.
+George eastman à crée sa société "Kodak" Un camé dans une boite fermée qui permet de faire une serie de 100 photographie avec un film en rouleau souple. on  ne peut tout simplement pas faire de mise au point. Premier appareil pour monsieur madame tout le monde,il revoillait les appareil a l´usine pour qu´il puisse developper les photos.
 ### En 1906
 La première vraie photographie en couleurs due à Auguste et Louis Lumière.
 ### En 1935
