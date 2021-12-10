@@ -54,6 +54,7 @@ La première photographie en couleur par superposition de 3 négatifs (rouge ver
 ![Première photo en couleur](image/premiere_photo_couleur.jpg)
 ### En 1880
 George eastman à crée sa société "Kodak" Un camé dans une boite fermée qui permet de faire une serie de 100 photographie avec un film en rouleau souple. on  ne peut tout simplement pas faire de mise au point. Premier appareil pour monsieur madame tout le monde,il revoillait les appareil a l´usine pour qu´il puisse developper les photos.
+![Photo du premier Kodak](image/premier_kodak.jpg)
 ### En 1906
 La première vraie photographie en couleurs due à Auguste et Louis Lumière.
 ### En 1935
